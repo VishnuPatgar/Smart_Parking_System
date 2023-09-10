@@ -13,4 +13,4 @@ OLED for display to dislay info.
 Arduino uno to process the incoming signals and based on process generate proper output signals.
 1 Buzzer for alaram if car crosses its limit of parking place.
 Bread Board to handle messy connection.
-Jumpers for connection. 
+Jumpers for connection (better to use singleton wires instead of jumpers to avoid loose connection). 
